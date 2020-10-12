@@ -2255,7 +2255,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #designmodo{
 	width: 163px;
 	height: 27px;
-	background-image: url('/assets/images/logo/designmodo-normal.png');
+	background-image: url('../../assets/images/logo/designmodo-normal.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	-webkit-transition: all 0.3s ease-in-out;                  
@@ -2269,14 +2269,14 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #designmodo:hover{
 	width: 163px;
 	height: 27px;
-	background-image: url('/assets/images/logo/designmodo-hover.png');
+	background-image: url('../../assets/images/logo/designmodo-hover.png');
 	background-repeat: no-repeat;
 }
 
 #firstwebdesigner{
 	width: 94px;
 	height: 48px;
-	background-image: url('/assets/images/logo/1stwebdesigner-normal.png');
+	background-image: url('../../assets/images/logo/1stwebdesigner-normal.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	-webkit-transition: all 0.3s ease-in-out;                  
@@ -2290,7 +2290,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #firstwebdesigner:hover{
 	width: 94px;
 	height: 48px;
-	background-image: url('/assets/images/logo/1stwebdesigner-hover.png');
+	background-image: url('../../assets/images/logo/1stwebdesigner-hover.png');
 	background-repeat: no-repeat;
 }
 
@@ -2312,7 +2312,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #codegeekz:hover{
 	width: 146px;
 	height: 27px;
-	background-image: url('/assets/images/logo/codegeekz-hover.png');
+	background-image: url('../../assets/images/logo/codegeekz-hover.png');
 	background-repeat: no-repeat;
 }
 
@@ -2320,7 +2320,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #webdesignerdepot{
 	width: 94px;
 	height: 48px;
-	background-image: url('/assets/images/logo/webdesignerdepot-normal.png');
+	background-image: url('../../assets/images/logo/webdesignerdepot-normal.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	-webkit-transition: all 0.3s ease-in-out;                  
@@ -2334,7 +2334,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #webdesignerdepot:hover{
 	width: 94px;
 	height: 48px;
-	background-image: url('/assets/images/logo/webdesignerdepot-hover.png');
+	background-image: url('../../assets/images/logo/webdesignerdepot-hover.png');
 	background-repeat: no-repeat;
 }
 
@@ -2342,7 +2342,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #speckyboy{
 	width: 152px;
 	height: 35px;
-	background-image: url('/assets/images/logo/speckyboy-normal.png');
+	background-image: url('../../assets/images/logo/speckyboy-normal.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	-webkit-transition: all 0.3s ease-in-out;                  
@@ -2355,14 +2355,14 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #speckyboy:hover{
 	width: 152px;
 	height: 35px;
-	background-image: url('/assets/images/logo/speckyboy-hover.png');
+	background-image: url('../../assets/images/logo/speckyboy-hover.png');
 	background-repeat: no-repeat;
 }
 
 #pageresource{
 	width: 152px;
 	height: 26px;
-	background-image: url('/assets/images/logo/pageresource-normal.png');
+	background-image: url('../../assets/images/logo/pageresource-normal.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	-webkit-transition: all 0.3s ease-in-out;                  
@@ -2375,7 +2375,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #pageresource:hover{
 	width: 152px;
 	height: 26px;
-	background-image: url('/assets/images/logo/pageresource-hover.png');
+	background-image: url('../../assets/images/logo/pageresource-hover.png');
 	background-repeat: no-repeat;
 }
 
