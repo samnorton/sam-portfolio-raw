@@ -2298,7 +2298,7 @@ a.portfolio-nav.active, a.portfolio-nav.active.show>.nav-link {
 #codegeekz{
 	width: 146px;
 	height: 27px;
-	background-image: url('/assets/images/logo/codegeekz-normal.png');
+	background-image: url('../../assets/iimages/logo/codegeekz-normal.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	-webkit-transition: all 0.3s ease-in-out;                  
